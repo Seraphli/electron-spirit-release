@@ -27,10 +27,11 @@ The title bar on the frame also contains buttons for convenience.
 
 All descriptions about buttons from left to right:
 - `T`: hide/show title bar. **Note** title bar only go transparent, it doesn't disappear. You can still move the window by dragging the invisible title bar.
+- `🔊`: mute button. Mute the window.
 - `B`: toggle the transparent/white background color of the webpage. This is useful when some web pages' background color is transparent.
 - `100`: display opacity of the window. You can adjust the opacity by placing the mouse on the button and scrolling the mouse wheel.
-- `↻`: reload button.
-- `X`: close button.
+- `↻`: reload button. Reload the window.
+- `X`: close button. Close the window.
 
 
 ## Auto Update

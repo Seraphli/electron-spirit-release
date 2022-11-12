@@ -4,7 +4,7 @@
 
 Electron Spirit is a desktop app that can place any webpage on top of the screen.
 
-It's similar to `Picture-in-Picture(PiP)` in Chrome that allows you to watch videos in a floating window (always on top of other windows) so you can keep an eye on what you’re watching while interacting with other sites, or applications.
+It's similar to `Picture-in-Picture(PiP)` in Chrome which allows you to watch videos in a floating window (always on top of other windows) so you can keep an eye on what you’re watching while interacting with other sites, or applications.
 
 ES provides users with more functionalities. You can disable interaction of the on-top window, to prevent losing focus of your current application. It's especially useful when playing a video game while watching a video on some website. 
 
@@ -36,6 +36,6 @@ ES可以运行在Windows，macOS和Linux上。
 
 ## About Open Source (关于开源)
 
-Like Obsian, ES provides plugin APIs to control its behavior and do some customization. I think it is enough for someone want to add their own stuff. I also have no intention to open source ES in the future.
+Like Obsidian, ES provides plugin APIs to control its behavior and do some customization. I think it is enough for someone who wants to add their stuff. I also have no intention to open source ES in the future.
 
 就像Obsidian一样，ES也提供了插件API来处理自定义的问题。插件API应该足够一些人添加自己的内容。而且我未来没有将ES开源的打算。
